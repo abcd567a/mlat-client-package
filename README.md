@@ -16,7 +16,9 @@ sudo dpkg -i mlat-client_0.2.11_BUSTER_armhf.deb
 ```
 
 </br>
+
 ### Package for Raspbian STRETCH  </br>
+
 The package for STRETCH was built on RPi Model 2B with Raspbian Buster </br>
 The built package was successfully installed on </br>
 - RPi Model 2B with Raspbian Stretch </br>
