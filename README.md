@@ -1,7 +1,7 @@
 # mlat-client-package </br>
 pre-built package of mlat-client  </br>
 This package was built from source-code at https://github.com/mutability/mlat-client </br>
-### Package for Raspbian BUSTER  </br>
+## Package for Raspbian BUSTER  </br>
 The package for BUSTER was built on RPi Model 2B with Raspbian Buster </br>
 The built package was successfully installed on </br>
 - RPi Model 2B with Raspbian Buster </br>
@@ -17,7 +17,7 @@ sudo dpkg -i mlat-client_0.2.11_BUSTER_armhf.deb
 
 </br>
 
-### Package for Raspbian STRETCH  </br>
+## Package for Raspbian STRETCH  </br>
 
 The package for STRETCH was built on RPi Model 2B with Raspbian Buster </br>
 The built package was successfully installed on </br>
