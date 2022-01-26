@@ -11,6 +11,7 @@ To install on RPi with 32-bit Raspi OS BULLSEYE </br>
 
 ```
 wget https://github.com/abcd567a/mlat-client-package/releases/download/v1/mlat-client_0.2.11_BULLSEYE_armhf.deb  
+
 sudo dpkg -i mlat-client_0.2.11_BULLSEYE_armhf.deb  
 ```
 
@@ -21,6 +22,7 @@ To install on RPi with 64-bit Raspi OS BULLSEYE(64-bit) </br>
 
 ```
 wget https://github.com/abcd567a/mlat-client-package/releases/download/v1/mlat-client_0.2.11_BULLSEYE_arm64.deb  
+
 sudo dpkg -i mlat-client_0.2.11_BULLSEYE_arm64.deb  
 ```
 
@@ -37,6 +39,7 @@ To install on RPi with 32-bit Raspbian BUSTER [Raspberry Pi OS (32-bit)] </br>
 
 ```
 wget https://github.com/abcd567a/mlat-client-package/releases/download/v1/mlat-client_0.2.11_BUSTER_armhf.deb  
+
 sudo dpkg -i mlat-client_0.2.11_BUSTER_armhf.deb  
 ```
 
@@ -51,6 +54,7 @@ To install on RPi with 64-bit Raspbian BUSTER [Raspberry Pi OS (64-bit)] </br>
 
 ```
 wget https://github.com/abcd567a/mlat-client-package/releases/download/v1/mlat-client_0.2.11_BUSTER_arm64.deb  
+
 sudo dpkg -i mlat-client_0.2.11_BUSTER_arm64.deb  
 ```
 
@@ -66,5 +70,6 @@ To install on RPi with Raspbian STRETCH</br>
 
 ```
 wget https://github.com/abcd567a/mlat-client-package/releases/download/v1/mlat-client_0.2.11_STRETCH_armhf.deb  
+
 sudo dpkg -i mlat-client_0.2.11_STRETCH_armhf.deb  
 ```
