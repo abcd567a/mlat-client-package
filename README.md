@@ -10,9 +10,9 @@ Three pre-built packages of mlat-client </br>
 To install on RPi with 32-bit Raspi OS BULLSEYE </br>
 
 ```
-wget https://github.com/abcd567a/mlat-client-package/releases/download/v1/mlat-client_0.2.11_BULLSEYE_armhf.deb  
+wget https://github.com/abcd567a/mlat-client-package/releases/download/v1/mlat-client_0.2.12_BULLSEYE_armhf.deb  
 
-sudo dpkg -i mlat-client_0.2.11_BULLSEYE_armhf.deb  
+sudo dpkg -i mlat-client_0.2.12_BULLSEYE_armhf.deb  
 ```
 
 </br>
@@ -21,9 +21,9 @@ sudo dpkg -i mlat-client_0.2.11_BULLSEYE_armhf.deb
 To install on RPi with 64-bit Raspi OS BULLSEYE(64-bit) </br>
 
 ```
-wget https://github.com/abcd567a/mlat-client-package/releases/download/v1/mlat-client_0.2.11_BULLSEYE_arm64.deb  
+wget https://github.com/abcd567a/mlat-client-package/releases/download/v1/mlat-client_0.2.12_BULLSEYE_arm64.deb  
 
-sudo dpkg -i mlat-client_0.2.11_BULLSEYE_arm64.deb  
+sudo dpkg -i mlat-client_0.2.12_BULLSEYE_arm64.deb  
 ```
 
 </br>
